@@ -1,0 +1,10 @@
+C:\Users\johnn\source\repos\Homework04Q03\Homework04Q03\bin\Debug\Homework04Q03.exe.config
+C:\Users\johnn\source\repos\Homework04Q03\Homework04Q03\bin\Debug\Homework04Q03.exe
+C:\Users\johnn\source\repos\Homework04Q03\Homework04Q03\bin\Debug\Homework04Q03.pdb
+C:\Users\johnn\source\repos\Homework04Q03\Homework04Q03\obj\Debug\Homework04Q03.csprojAssemblyReference.cache
+C:\Users\johnn\source\repos\Homework04Q03\Homework04Q03\obj\Debug\Homework04Q03.Form1.resources
+C:\Users\johnn\source\repos\Homework04Q03\Homework04Q03\obj\Debug\Homework04Q03.Properties.Resources.resources
+C:\Users\johnn\source\repos\Homework04Q03\Homework04Q03\obj\Debug\Homework04Q03.csproj.GenerateResource.cache
+C:\Users\johnn\source\repos\Homework04Q03\Homework04Q03\obj\Debug\Homework04Q03.csproj.CoreCompileInputs.cache
+C:\Users\johnn\source\repos\Homework04Q03\Homework04Q03\obj\Debug\Homework04Q03.exe
+C:\Users\johnn\source\repos\Homework04Q03\Homework04Q03\obj\Debug\Homework04Q03.pdb

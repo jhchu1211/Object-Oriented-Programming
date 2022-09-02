@@ -1,0 +1,11 @@
+C:\Users\johnn\source\repos\ECE2310Quiz6\ECE2310Quiz6\obj\Debug\netcoreapp2.1\ECE2310Quiz6.csprojAssemblyReference.cache
+C:\Users\johnn\source\repos\ECE2310Quiz6\ECE2310Quiz6\obj\Debug\netcoreapp2.1\ECE2310Quiz6.csproj.CoreCompileInputs.cache
+C:\Users\johnn\source\repos\ECE2310Quiz6\ECE2310Quiz6\obj\Debug\netcoreapp2.1\ECE2310Quiz6.AssemblyInfoInputs.cache
+C:\Users\johnn\source\repos\ECE2310Quiz6\ECE2310Quiz6\obj\Debug\netcoreapp2.1\ECE2310Quiz6.AssemblyInfo.cs
+C:\Users\johnn\source\repos\ECE2310Quiz6\ECE2310Quiz6\bin\Debug\netcoreapp2.1\ECE2310Quiz6.deps.json
+C:\Users\johnn\source\repos\ECE2310Quiz6\ECE2310Quiz6\bin\Debug\netcoreapp2.1\ECE2310Quiz6.runtimeconfig.json
+C:\Users\johnn\source\repos\ECE2310Quiz6\ECE2310Quiz6\bin\Debug\netcoreapp2.1\ECE2310Quiz6.runtimeconfig.dev.json
+C:\Users\johnn\source\repos\ECE2310Quiz6\ECE2310Quiz6\bin\Debug\netcoreapp2.1\ECE2310Quiz6.dll
+C:\Users\johnn\source\repos\ECE2310Quiz6\ECE2310Quiz6\bin\Debug\netcoreapp2.1\ECE2310Quiz6.pdb
+C:\Users\johnn\source\repos\ECE2310Quiz6\ECE2310Quiz6\obj\Debug\netcoreapp2.1\ECE2310Quiz6.dll
+C:\Users\johnn\source\repos\ECE2310Quiz6\ECE2310Quiz6\obj\Debug\netcoreapp2.1\ECE2310Quiz6.pdb
